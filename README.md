@@ -21,4 +21,4 @@ Diamante papá  | Ya casi salgo jsjsj
 Content Cell  | Content Cell
 
 
-$$ (∂ + m) ψ = 0 $$
+$$(∂ + m) ψ = 0$$
