@@ -19,3 +19,6 @@ Mi nivel de Lol  | Mi nivel de programacion
 ------------- | -------------
 Diamante papá  | Ya casi salgo jsjsj
 Content Cell  | Content Cell
+
+
+$$ (∂ + m) ψ = 0 $$
