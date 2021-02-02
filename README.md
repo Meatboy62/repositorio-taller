@@ -21,6 +21,4 @@ Diamante papá  | Ya casi salgo jsjsj
 Content Cell  | Content Cell
 
 
-$$
-(∂ + m) ψ = 0
-$$
+\sum_{n=1}^{N}n^{-s}
