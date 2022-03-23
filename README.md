@@ -21,4 +21,4 @@ Diamante papá  | Ya casi salgo jsjsj
 Content Cell  | Content Cell
 
 
-\sum_{n=1}^{N}n^{-s}
+$$\sum_{n=1}^{N}n^{-s}$$
